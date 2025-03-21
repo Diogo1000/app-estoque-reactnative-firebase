@@ -1,7 +1,7 @@
 # Aplicativo de Estoque :abacus:
 
 
-![captura de tela](https://i.imgur.com/SeksXYj.jpeg) ![captura de tela](https://i.imgur.com/FnE2JRN.jpeg) ![captura de tela](https://i.imgur.com/c0x7baS.jpeg) ![captura de tela](https://i.imgur.com/xKaeSTn.jpeg)
+![captura de tela]([https://i.imgur.com/SeksXYj.jpeg](https://drive.google.com/file/d/1YjpNB7nM2IEet4LNtCdoFiq0CqFAuAnl/view?usp=sharing)) ![captura de tela]([https://i.imgur.com/FnE2JRN.jpeg](https://drive.google.com/file/d/1Yh4g1Ed1zRWtc9J8vsrT3NJ5rC7qede7/view?usp=sharing)) ![captura de tela]([https://i.imgur.com/c0x7baS.jpeg](https://drive.google.com/file/d/1YiqSnu9Bn588LS2AB0eBAredOuCZo0MN/view?usp=sharing)) ![captura de tela]([https://i.imgur.com/xKaeSTn.jpeg](https://drive.google.com/file/d/1YkJ8_ZFWwObbH7gqrwvAlsKL6iF-l63y/view?usp=sharing))
 
 Projeto de um aplicativo de controle de estoque.
 
